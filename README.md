@@ -12,7 +12,7 @@ Broadly there are two risk identification that has to be performed
   and ensure company is not missing the business oppurtunity 
   
 * Identify if company approves the loan then the candidate has higher probability of not 
-  repaying the loand which will be a loss incurred by the company 
+  repaying the loan which will be a loss incurred by the company 
 ```
 
 ### High level approach 
