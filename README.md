@@ -20,7 +20,7 @@ Broadly there are two risk identification that has to be performed
 1. Understand the data
 2. Perform data clean up
 3. Univariate analysis
-4. BiVariate analysis
+4. Bivariate analysis
 6. Multivariate analysis
 7. Recommendations
 
