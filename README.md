@@ -8,8 +8,11 @@ analyse the applicants data and understand if there are any risk associated with
 ```
 Broadly there are two risk identification that has to be performed 
 
-* Identify the candidates those who are more likely to repay the loan and ensure company is not missing the business oppurtunity 
-* Identify if company approves the loan then the candidate has higher probability of not repaying the loand which will be a loss incurred by the company 
+* Identify the candidates those who are more likely to repay the loan 
+  and ensure company is not missing the business oppurtunity 
+  
+* Identify if company approves the loan then the candidate has higher probability of not 
+  repaying the loand which will be a loss incurred by the company 
 ```
 
 ### High level approach 
