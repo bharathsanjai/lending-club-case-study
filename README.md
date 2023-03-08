@@ -26,5 +26,13 @@ Broadly there are two risk identification that has to be performed
 
 ### Charts used 
 
+- [x] Bar plot
+- [x] Scatter plot
+- [x] Box plot
+- [x] Cross tab
+- [x] Heat Map
+- [x] Histogram
+
+
 ### Contributors 
 
